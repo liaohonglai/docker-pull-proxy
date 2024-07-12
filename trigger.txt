@@ -1,1 +1,1 @@
-redis:5.0.10  registry.cn-hangzhou.aliyuncs.com/images_namespaces/redis:5.0.10
+rabbitmq:management  registry.cn-hangzhou.aliyuncs.com/images_namespaces/rabbitmq:management
