@@ -1,1 +1,1 @@
-nacos-server:v2.3.2  registry.cn-hangzhou.aliyuncs.com/images_namespaces/nacos-server:v2.3.2
+nacos/nacos-server:v2.3.2  registry.cn-hangzhou.aliyuncs.com/images_namespaces/nacos-server:v2.3.2
